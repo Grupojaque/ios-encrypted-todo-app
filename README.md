@@ -8,7 +8,7 @@ del dispositivo iOS.
 
 1. Baja el repositorio en tu computadora
 2. Ejecuta `pod install` para instalar las dependencias usando Cocoapods
-2. Abre el archivo `Keychain Example.xcworkspace` con doble click
+2. Abre el archivo `ToDoList.xcworkspace` con doble click
 3. Ejecuta `⌘` + `R` en Xcode
 
 La aplicación se ejecutará en un simulador de iPhone y podrás interactuar 
